@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|c:\\users\\student\\downloads\\laundry\\laundry\\laundry\\laundry\\garmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\garmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\garmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\garmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|c:\\users\\student\\downloads\\laundry\\laundry\\laundry\\laundry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|c:\\users\\student\\downloads\\laundry\\laundry\\laundry\\laundry\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\laundryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\laundryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\laundrylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\laundrylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\laundry\\laundryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68C5549-AA2A-492E-91F5-B24A619A74B0}|Laundry\\Laundry.csproj|solutionrelative:laundry\\laundryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GarmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\GarmentForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\GarmentForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\GarmentForm.cs [Design]",
+              "RelativeToolTip": "Laundry\\GarmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:53:31.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\CustomersForm.cs [Design]",
+              "RelativeToolTip": "Laundry\\CustomersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:46.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersForm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\CustomersForm.cs",
+              "RelativeToolTip": "Laundry\\CustomersForm.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\CustomerForm.cs",
+              "RelativeToolTip": "Laundry\\CustomerForm.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwF4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:23:32.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\StaffForm.cs",
+              "RelativeToolTip": "Laundry\\StaffForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:29:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\Program.cs",
+              "RelativeDocumentMoniker": "Laundry\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\Program.cs",
+              "RelativeToolTip": "Laundry\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:09:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GarmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\GarmentForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\GarmentForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\GarmentForm.cs",
+              "RelativeToolTip": "Laundry\\GarmentForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:29:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\DashboardForm.cs",
+              "RelativeToolTip": "Laundry\\DashboardForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:25:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaundryForm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\LaundryForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\LaundryForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\LaundryForm.cs",
+              "RelativeToolTip": "Laundry\\LaundryForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA6wCYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:55:54.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LaundryListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\LaundryListForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\LaundryListForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\LaundryListForm.cs [Design]",
+              "RelativeToolTip": "Laundry\\LaundryListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:24:38.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Laundry\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:25:08.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LaundryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\LaundryForm.cs",
+              "RelativeDocumentMoniker": "Laundry\\LaundryForm.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\Laundry\\Laundry\\Laundry\\Laundry\\LaundryForm.cs [Design]",
+              "RelativeToolTip": "Laundry\\LaundryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:43:40.661Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
